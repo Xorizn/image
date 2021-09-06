@@ -10,4 +10,3 @@
 <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Josee.jpeg" />
 <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" />
 <img src="https://github.com/YuzzuKamiyaka/image/blob/main/kannacons.jpeg" />
-<img src="https://raw.githubusercontent.com/YuzzuKamiyaka/image/main/youtube.svg" />
